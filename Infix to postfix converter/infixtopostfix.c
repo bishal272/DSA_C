@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
+// text using A+(B*C-(D/E^F)*G)*H
 
 char stack[100];
 int top = -1;
